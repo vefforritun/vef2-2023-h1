@@ -1,5 +1,7 @@
 # Vefforritun 2, 2023, hópverkefni 1
 
+[Kynning í fyrirlestri](https://youtu.be/aQq6OMJ91ro).
+
 ## Verkefnið
 
 Útbúa skal vefþjónustur fyrir verkefni ákveðið af hópnum. Þetta er ólíkt hópverkefnum seinustu ára þar sem vel skilgreindar vefþjónustur hafa verið gefnar til útfærslu. Hægt er að fá tilfinningu fyrir útfærslu með að skoða sýnilausnir á þeim verkefnum:
