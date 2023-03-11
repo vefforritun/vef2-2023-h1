@@ -137,9 +137,9 @@ Sjást ætti á commit history að allir meðlimir hóps hafi tekið þátt í v
 
 ## Mat
 
-- 30% Gagnagrunnur og gögn.
+- 25% Gagnagrunnur og gögn.
 - 30% Vefþjónustur.
-- 20% Notendumsjón.
+- 15% Notendumsjón.
 - 10% Myndastuðningur.
 - 10% Tæki, tól og test. `README` uppsett, verkefni keyrir í hýsingu.
 - 10% Hópavinna með Git og GitHub PR.
@@ -174,3 +174,5 @@ Skil skulu innihalda:
 | Útgáfa | Breyting      |
 | ------ | ------------- |
 | 0.1    | Fyrsta útgáfa |
+| 0.2    | Laga mat prósentur |
+
