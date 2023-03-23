@@ -108,7 +108,7 @@ Almennt skal huga að öryggi m.t.t. OWASP top 10. Þetta á sérstaklega við n
 
 ### Hýsing
 
-Setja skal upp vefinn á Heroku tengt við GitHub með Heroku postgres settu upp.
+Setja skal upp vefinn á Render, Railway eða Heroku (ath að uppsetning á Heroku mun kosta) tengt við GitHub með postgres settu upp.
 
 ### README
 
@@ -175,4 +175,5 @@ Skil skulu innihalda:
 | ------ | ------------- |
 | 0.1    | Fyrsta útgáfa |
 | 0.2    | Laga mat prósentur |
+| 0.3    | Laga hýsingu |
 
