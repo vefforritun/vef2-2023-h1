@@ -1,6 +1,6 @@
 # Vefforritun 2, 2023, hópverkefni 1
 
-[Kynning í fyrirlestri](https://youtu.be/aQq6OMJ91ro).
+[Kynning í fyrirlestri](https://youtu.be/uX4COJ_WQEo).
 
 ## Verkefnið
 
